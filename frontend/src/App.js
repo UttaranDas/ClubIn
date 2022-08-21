@@ -1,7 +1,8 @@
 import NavBar from "./components/Navbar";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 // import Home from "./components/Home";
-// Hello Nikhils
+// Hello Nikhil
+// Hello from Uttaran
 
 function App() {
   return (
